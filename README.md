@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Azmain Biswas.
 - 👀 I’m interested in computer.
 - 🌱 I’m just trying to learn how to code.
-- <!-- 💞️ I’m looking to collaborate on ... --->
+<!-- 💞️ I’m looking to collaborate on ... --->
 
 
 
