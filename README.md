@@ -1,7 +1,6 @@
+ Hi there, I’m Azmain Biswas.
 
-- 👋 Hi, I’m Azmain Biswas.
-- 👀 I’m interested in computer.
-- 🌱 I’m just trying to learn how to code.
+I am a Applied Mathematics student, just learning how to code. 
 <!-- 💞️ I’m looking to collaborate on ... --->
 
 
